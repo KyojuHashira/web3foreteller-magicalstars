@@ -1,5 +1,5 @@
 # traileffect
-Leaves a pleasant trail behind the mouse cursor, dotting the space with stars of random sizes and colors.
+Leaves a pleasant, random trail behind the mouse cursor, dotting the space with stars of random sizes, colors and opacity.
 
 Features used:
 - Random colors for each generated particle (star).

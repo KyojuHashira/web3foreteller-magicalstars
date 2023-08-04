@@ -1,4 +1,4 @@
-# traileffect
+#traileffect
 Leaves a pleasant, random trail behind the mouse cursor, dotting the space with stars of random sizes, colors and opacity.
 
 Features used:

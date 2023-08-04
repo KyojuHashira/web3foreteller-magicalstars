@@ -1,14 +1,4 @@
 /* properties of the particles (stars) from which stellar smoke forms */
-.smoke-particle {
-  position: absolute;
-  border-radius: 50%;
-  pointer-events: none;
-  transition: opacity 1.54s ease;
-  background-color: rgba(128, 128, 128, 1);
-  width: 5px;
-  height: 5px;
-}
-
 .smoke-star {
   position: absolute;
   pointer-events: none;

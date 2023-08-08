@@ -7,4 +7,4 @@ Features used:
 - Random positioning for each generated star within a given area.
 - 15% chance of a subtle bluish glow when generating each star.
 - A slight increase in brightness for some elements (1% of well-defined stars).
-- 0.5% chance to draw gold star
+- 0.5% chance to draw a gold star

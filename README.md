@@ -1,4 +1,4 @@
-#web3foreteller-traileffect creates a scattering of stars around the mouse cursor with random sizes, colors, and opacity.
+#web3foreteller-magicalstars creates a scattering of stars around the mouse cursor with random sizes, colors, and opacity.
 
 Features used:
 - Random colors for each generated star.

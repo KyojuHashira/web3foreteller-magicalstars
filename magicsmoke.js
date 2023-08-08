@@ -1,4 +1,4 @@
-// if you have any issues, welcome to https://github.com/KyojuHashira/traileffect/
+// if you have any issues, welcome to https://github.com/KyojuHashira/traileffect/issues
 const smokeEffect = document.getElementById('smoke-effect');
 
 function getRandomGoldColor() {
